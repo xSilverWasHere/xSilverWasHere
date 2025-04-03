@@ -1,16 +1,14 @@
-## Hi there 👋
+# xSilverWasHere
+Welcome to my Github.
 
-<!--
-**xSilverWasHere/xSilverWasHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:raising_hand: About me:
 
-Here are some ideas to get you started:
+Started my journey at 4 years old with a Sega Megadrive and been in love with video games ever since.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I studied Photography and Cinema and have a Bachelor's Degree.
+
+Right now I'm studying code at 42 Porto.
+
+:computer: Projects:
+
+<a href="https://github.com/xSilverWasHere/42Piscine"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeOJX7VJeno3Cy_6JqZaMATH6pp7C694A7g&s" alt="https://github.com/xSilverWasHere/42Piscine" style="width:42px;height:42px;"></a>
