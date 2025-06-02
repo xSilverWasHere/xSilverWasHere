@@ -9,7 +9,7 @@ I studied Photography and Cinema and have a Bachelor's Degree.
 
 Right now I'm studying code at 42 Porto.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSilverWasHere)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSilverWasHere&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 :computer: Projects:
 
