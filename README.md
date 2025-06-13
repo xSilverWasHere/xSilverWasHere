@@ -4,7 +4,7 @@
 
 My name is João, I started my journey at 4 years old with a Sega Megadrive and been in love with video games ever since. I also studied Photography and Cinema, have a Bachelor's Degree and have been working for 10+ years as a freelancer.
 
-Right now I'm studying code at 42 Porto.
+Right now I'm studying code at 42 Porto. I have an interest in Game Dev and Cybersecurity.
 
 Recently I've been listening to:
 
