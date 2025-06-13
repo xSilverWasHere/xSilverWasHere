@@ -1,5 +1,4 @@
-# xSilverWasHere
-Welcome to my Github.
+# Welcome to my Github.
 
 :raising_hand: About me:
 
