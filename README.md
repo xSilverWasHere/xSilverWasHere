@@ -24,19 +24,18 @@ Recently I've been listening to:
 <div align="center">
   <a href="https://github.com/xSilverWasHere/get_next_line" target="_blank">
     <img src="https://raw.githubusercontent.com/xSilverWasHere/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="get_next_line" />
-  </a>
   <a href="https://github.com/xSilverWasHere/ft_printf" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf" />
-  </a>
- </a>
+    <img src=https://github.com/xSilverWasHere/42-project-badges/blob/main/badges/ft_printfe.png alt="ft_printf" />
   <a href="https://github.com/xSilverWasHere/Born2BeRoot" target="_blank">
-    <img src="https://github.com/user-attachments/assets/714acb59-4011-469e-9127-2abfa9379501" alt="Born2BeRoot" />
-  </a>
- 
+    <img src="https://github.com/xSilverWasHere/42-project-badges/blob/main/badges/born2berootm.png" alt="Born2BeRoot" />
 </div>
 
 <h4 align="center">Milestone 2</h4>
+<div align="center">
+  <a href="https://github.com/xSilverWasHere/so_long" target="_blank">
+    <img src=https://github.com/xSilverWasHere/42-project-badges/blob/main/badges/so_longm.png alt="so_long" />
+  </a>
 <h4 align="center"> :construction: IN PROGRESS :construction: </h4>
-
+</div>
  
  
