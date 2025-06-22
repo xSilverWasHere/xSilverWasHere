@@ -29,7 +29,7 @@ Recently I've been listening to:
     <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf" />
   </a>
  </a>
-  <a href= target="_blank">
+  <a href="https://github.com/xSilverWasHere/Born2BeRoot" target="_blank">
     <img src="https://github.com/user-attachments/assets/714acb59-4011-469e-9127-2abfa9379501" alt="Born2BeRoot" />
   </a>
  
