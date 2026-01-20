@@ -35,11 +35,24 @@ Recently I've been listening to:
 
 
 <h4 align="center">Milestone 2</h4>
+
 <div align="center">
   <a href="https://github.com/xSilverWasHere/so_long" target="_blank">
     <img src=https://github.com/xSilverWasHere/42-project-badges/blob/main/badges/so_longm.png alt="so_long" />
   </a>
+  <a href="https://github.com/xSilverWasHere/minitalk" target="_blank">
+    <img src=https://github.com/xSilverWasHere/42-project-badges/blob/main/badges/minitalkm.png alt="minitalk" />
+  </a>
+   <a href="https://github.com/xSilverWasHere/pushswap" target="_blank">
+    <img src=https://github.com/xSilverWasHere/42-project-badges/blob/main/badges/push_swape.png alt="pushswap" />
+  </a>
+
+<h4 align="center">Milestone 3</h4>
+
+<div align="center">
+  <a href="https://github.com/xSilverWasHere/philosophers" target="_blank">
+    <img src=https://github.com/xSilverWasHere/42-project-badges/blob/main/badges/philosopherse.png alt="philosophers" />
+  </a>
+
 <h4 align="center"> :construction: IN PROGRESS :construction: </h4>
 </div>
- 
- 
